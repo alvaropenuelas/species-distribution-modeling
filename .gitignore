@@ -1,0 +1,6 @@
+data/raw/environmental/
+results/models/
+data/raw/
+*.tif
+*.pkl
+.DS_Store

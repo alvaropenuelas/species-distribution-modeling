@@ -1,0 +1,20 @@
+# Core data handling
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning (SDM algorithms)
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+folium>=0.14.0
+
+# Spatial / raster data
+xarray>=2023.1.0
+netcdf4>=1.6.0
+geopandas>=0.14.0
+
+# Bio-ORACLE v3.0 environmental layers
+pyo-oracle>=0.2.0

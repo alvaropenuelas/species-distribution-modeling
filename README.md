@@ -112,3 +112,4 @@ open results/plots/interactive_map.html
 
 **Alvaro Peñuelas**  
 MSc Marine and Lacustrine Science and Management
+Linkedin URL: www.linkedin.com/in/álvaro-peñuelas-9116712b8

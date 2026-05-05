@@ -39,7 +39,7 @@ A Random Forest species distribution model (SDM) predicting habitat suitability 
 Block-level AUC ranged from 0.62 to 1.00, reflecting genuine spatial variability in model transferability. Blocks in the central NE Atlantic (blocks 09, 02) showed weaker performance, suggesting environmental conditions there are underrepresented in the training data.
 
 Output maps:
-- `results/plots/suitability_map.png` — static matplotlib map
+- `results/plots/feature_importance.png` — static matplotlib map
 - `results/plots/interactive_map.html` — interactive Folium map with toggleable layers
 - `results/predictions/suitability_map.csv` — full prediction grid
 
